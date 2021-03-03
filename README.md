@@ -8,7 +8,7 @@ Yes I know that making a map editor in a game engine probably isn't the best met
 All assets were created by me using Pixil Art https://www.pixilart.com/draw
 
 # Libraries
-Pygame
+Pygame,
 OS
 
 # How to run it
