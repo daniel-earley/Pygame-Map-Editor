@@ -12,5 +12,4 @@ Pygame,
 OS
 
 # How to run it
-The main file in the program is map_editor.py
 To run the program run the map_editor.py script
